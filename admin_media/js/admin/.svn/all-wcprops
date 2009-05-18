@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9514/django/trunk/django/contrib/admin/media/js/admin
+END
+RelatedObjectLookups.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9403/django/trunk/django/contrib/admin/media/js/admin/RelatedObjectLookups.js
+END
+CollapsedFieldsets.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7967/django/trunk/django/contrib/admin/media/js/admin/CollapsedFieldsets.js
+END
+ordering.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2234/django/trunk/django/contrib/admin/media/js/admin/ordering.js
+END
+DateTimeShortcuts.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9514/django/trunk/django/contrib/admin/media/js/admin/DateTimeShortcuts.js
+END

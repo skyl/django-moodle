@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9514/django/trunk/django/contrib/admin/media/js
+END
+SelectFilter2.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6262/django/trunk/django/contrib/admin/media/js/SelectFilter2.js
+END
+SelectBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6015/django/trunk/django/contrib/admin/media/js/SelectBox.js
+END
+core.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6172/django/trunk/django/contrib/admin/media/js/core.js
+END
+dateparse.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4032/django/trunk/django/contrib/admin/media/js/dateparse.js
+END
+getElementsBySelector.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/948/django/trunk/django/contrib/admin/media/js/getElementsBySelector.js
+END
+calendar.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2448/django/trunk/django/contrib/admin/media/js/calendar.js
+END
+timeparse.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/948/django/trunk/django/contrib/admin/media/js/timeparse.js
+END
+urlify.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6999/django/trunk/django/contrib/admin/media/js/urlify.js
+END

@@ -40,7 +40,7 @@ USE_I18N = True
 # Example: "/home/media/media.lawrence.com/"
 MEDIA_ROOT = os.path.join(PROJECT_DIR, 'media/')
 
-if not LIVE:
+if DEBUG:
     MEDIA_URL = '/media/'
     ADMIN_MEDIA_PREFIX = '/admin_media/'
 
@@ -74,4 +74,5 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.sites',
     'django.contrib.admin',
+    'users',
 )

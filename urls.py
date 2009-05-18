@@ -4,9 +4,9 @@ from django.conf.urls.defaults import *
 from django.contrib import admin
 admin.autodiscover()
 import os
-from settings import LIVE, PROJECT_DIR
+from settings import DEBUG, PROJECT_DIR
 
-if not LIVE:
+if DEBUG:
     urlpatterns = patterns('',\
             (r'^media/(?P<path>.*)$', 'django.views.static.serve',\
                 {'document_root': os.path.join(PROJECT_DIR, 'media/')}),
